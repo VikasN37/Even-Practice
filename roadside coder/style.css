@@ -1,0 +1,113 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100vh;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  width: 100%;
+  height: 70%;
+}
+.employeeContainer {
+  display: flex;
+  width: 80%;
+  height: 80%;
+  border: 1px solid black;
+  justify-content: center;
+}
+
+.child {
+  width: 50%;
+  height: 100%;
+  border: 2px solid black;
+  overflow: auto;
+}
+
+.heading {
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  text-align: center;
+  padding: 10px;
+}
+
+.employee--names {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  border-bottom: 1px solid black;
+  height: 50px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.delete {
+  border: 1px solid gray;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.delete:hover {
+  background-color: lightcoral;
+}
+
+.selected {
+  background-color: lightgrey;
+}
+
+.employee--details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 8px;
+}
+
+.profilePhoto {
+  height: 20%;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.header {
+  padding: 10px;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.addEmployee {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(141, 141, 141, 0.541);
+}
+input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+}
+
+.empForm {
+  width: 50%;
+  /* height: 50%; */
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

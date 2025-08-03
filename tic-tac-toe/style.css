@@ -1,0 +1,51 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.mainContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  width: 100%;
+  font-size: 30px;
+  margin: 35px;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.newGameBtn {
+  font-size: 18px;
+  padding: 8px;
+  border: none;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.gameContainer {
+  width: 50%;
+  height: 70%;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gameBox {
+  width: 31%;
+  height: 33%;
+  border: 2px solid black;
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

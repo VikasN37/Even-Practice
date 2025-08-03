@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharmaaa",
+    "age": 24,
+    "contact_no": "9876543210",
+    "imageURL": "https://picsum.photos/200?random=1"
+  },
+  {
+    "id": 2,
+    "name": "Meera Iyer",
+    "age": 28,
+    "contact_no": "9123456780",
+    "imageURL": "https://picsum.photos/200?random=2"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Verma",
+    "age": 22,
+    "contact_no": "9988776655",
+    "imageURL": "https://picsum.photos/200?random=3"
+  },
+  {
+    "id": 4,
+    "name": "Sanya Kapoor",
+    "age": 30,
+    "contact_no": "9345612876",
+    "imageURL": "https://picsum.photos/200?random=4"
+  },
+  {
+    "id": 5,
+    "name": "Kunal Joshi",
+    "age": 27,
+    "contact_no": "9001234567",
+    "imageURL": "https://picsum.photos/200?random=5"
+  },
+  {
+    "id": 6,
+    "name": "Priya Desai",
+    "age": 25,
+    "contact_no": "9811223344",
+    "imageURL": "https://picsum.photos/200?random=6"
+  },
+  {
+    "id": 7,
+    "name": "Arjun Mehta",
+    "age": 31,
+    "contact_no": "9955667788",
+    "imageURL": "https://picsum.photos/200?random=7"
+  },
+  {
+    "id": 8,
+    "name": "Neha Rao",
+    "age": 26,
+    "contact_no": "9090909090",
+    "imageURL": "https://picsum.photos/200?random=8"
+  },
+  {
+    "id": 9,
+    "name": "Vikram Patil",
+    "age": 23,
+    "contact_no": "9898989898",
+    "imageURL": "https://picsum.photos/200?random=9"
+  },
+  {
+    "id": 10,
+    "name": "Anjali Nair",
+    "age": 29,
+    "contact_no": "9777554433",
+    "imageURL": "https://picsum.photos/200?random=10"
+  }
+]

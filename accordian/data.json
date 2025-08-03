@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "You can return any item within 30 days of purchase for a full refund."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days, and express shipping takes 1-2 business days."
+  },
+  {
+    "id": 3,
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to most countries. Shipping charges vary by destination."
+  },
+  {
+    "id": 4,
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, we will email you a tracking link."
+  },
+  {
+    "id": 5,
+    "question": "Can I change or cancel my order?",
+    "answer": "Yes, but only within 2 hours of placing it. Contact support immediately."
+  },
+  {
+    "id": 6,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, PayPal, and UPI payments."
+  },
+  {
+    "id": 7,
+    "question": "Are there any discounts available?",
+    "answer": "Yes, we offer seasonal and first-time customer discounts. Check our homepage."
+  },
+  {
+    "id": 8,
+    "question": "Do you provide gift wrapping?",
+    "answer": "Yes, gift wrapping is available at checkout for an additional fee."
+  },
+  {
+    "id": 9,
+    "question": "Is my personal information secure?",
+    "answer": "Absolutely. We use SSL encryption and never share your data with third parties."
+  },
+  {
+    "id": 10,
+    "question": "What should I do if I receive a damaged item?",
+    "answer": "Contact our support team with a photo of the damage, and we'll replace it immediately."
+  }
+]

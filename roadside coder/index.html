@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <title>Even Practice</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Employee Database Management System</h1>
+      <button class="btn">Add Employee</button>
+    </header>
+    <div class="mainContainer">
+      <div class="employeeContainer">
+        <div id="emplyeeList" class="child">
+          <div class="heading">Employee List</div>
+          <div class="employee--list"></div>
+        </div>
+
+        <div id="emplyeeDetails" class="child">
+          <div class="heading">Employee Details</div>
+          <div class="employee--details"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="addEmployee">
+      <form class="empForm">
+        <input name="firstName" type="text" placeholder="Enter firstName" />
+        <input name="lastName" type="text" placeholder="Enter lastName" />
+        <input name="imageUrl" type="text" placeholder="Enter image url" />
+        <input name="email" type="text" placeholder="Enter Email" />
+        <input
+          name="contactNumber"
+          type="text"
+          placeholder="Enter Contact number"
+        />
+        <input type="date" />
+        <input type="submit" />
+      </form>
+    </div>
+
+    <script src="script.js" />
+  </body>
+</html>

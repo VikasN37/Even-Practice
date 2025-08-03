@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <title>Slider</title>
+  </head>
+  <body>
+    <div class="formContainer">
+      <form class="form">
+        <div><h3 style="text-align: center">Enter URL to add photo</h3></div>
+        <input type="text" name="imageURL" id="newImageURL" required
+        placeholder="Enter URL here""/>
+        <input type="submit" id="submit" />
+      </form>
+    </div>
+    <div class="mainContainer">
+      <div class="slider-section">
+        <div class="slider-heading">
+          <span>IMAGE SLIDER</span>
+          <button class="addBtn">Add image</button>
+        </div>
+
+        <div class="image-section">
+          <div class="prevImage buttonContainer">
+            <button class="btn" id="previousBtn">
+              <img
+                src="https://www.svgrepo.com/show/457338/previous.svg"
+                alt="next-button"
+                class="icon"
+              />
+            </button>
+          </div>
+          <div class="imageContainer">
+            <button class="delBtn">❌</button>
+            <img src="" class="image" />
+          </div>
+          <div class="nextImage buttonContainer">
+            <button class="btn" id="nextBtn">
+              <img
+                src="https://www.svgrepo.com/show/31619/next-arrow.svg"
+                alt="next-button"
+                class="icon"
+              />
+            </button>
+          </div>
+        </div>
+
+        <div class="footer">
+          <span id="currentImageNumber"></span> /
+          <span id="totalImageNumber"></span>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js" />
+  </body>
+</html>

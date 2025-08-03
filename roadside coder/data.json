@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1002,
+    "imageUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+    "firstName": "Faye",
+    "lastName": "Sanders",
+    "email": "faye.sanders@example.com",
+    "contactNumber": "8765432190",
+    "dob": "28/06/1964"
+  },
+  {
+    "id": 1003,
+    "imageUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.brown@example.com",
+    "contactNumber": "9123456780",
+    "age": 35,
+    "dob": "02/01/1989",
+    "salary": 4.2,
+    "address": "456 Elm St, California"
+  },
+  {
+    "id": 1004,
+    "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "firstName": "Sophia",
+    "lastName": "Lee",
+    "email": "sophia.lee@example.com",
+    "contactNumber": "9988776655",
+    "age": 41,
+    "dob": "12/03/1983",
+    "salary": 3.8,
+    "address": "789 Pine St, Chicago"
+  },
+  {
+    "id": 1005,
+    "imageUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+    "firstName": "David",
+    "lastName": "Clark",
+    "email": "david.clark@example.com",
+    "contactNumber": "9871234567",
+    "age": 50,
+    "dob": "23/11/1974",
+    "salary": 5,
+    "address": "321 Maple St, Seattle"
+  },
+  {
+    "id": 1006,
+    "imageUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "contactNumber": "7894561230",
+    "age": 28,
+    "dob": "30/05/1996",
+    "salary": 3.2,
+    "address": "654 Cedar St, Austin"
+  },
+  {
+    "id": 1007,
+    "imageUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+    "firstName": "Emma",
+    "lastName": "Watson",
+    "email": "emma.watson@example.com",
+    "contactNumber": "7654321980",
+    "age": 32,
+    "dob": "09/08/1992",
+    "salary": 3.6,
+    "address": "22 Broadway, Boston"
+  },
+  {
+    "id": 1008,
+    "imageUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+    "firstName": "Chris",
+    "lastName": "Evans",
+    "email": "chris.evans@example.com",
+    "contactNumber": "9988223344",
+    "age": 45,
+    "dob": "14/07/1979",
+    "salary": 4.9,
+    "address": "19 Liberty St, Denver"
+  },
+  {
+    "id": 1009,
+    "imageUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+    "firstName": "Liam",
+    "lastName": "Wilson",
+    "email": "liam.wilson@example.com",
+    "contactNumber": "7788990011",
+    "age": 39,
+    "dob": "18/10/1985",
+    "salary": 4.3,
+    "address": "34 Ocean Dr, Miami"
+  },
+  {
+    "id": 1010,
+    "imageUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+    "firstName": "Olivia",
+    "lastName": "Taylor",
+    "email": "olivia.taylor@example.com",
+    "contactNumber": "9900112233",
+    "age": 26,
+    "dob": "03/09/1998",
+    "salary": 3.1,
+    "address": "55 Garden St, San Francisco"
+  },
+  {
+    "id": 1011,
+    "imageUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+    "firstName": "Daniel",
+    "lastName": "Harris",
+    "email": "daniel.harris@example.com",
+    "contactNumber": "9990008887",
+    "age": 42,
+    "dob": "07/12/1982",
+    "salary": 4.7,
+    "address": "12 Lakeview Dr, Atlanta"
+  },
+  {
+    "id": 1012,
+    "imageUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+    "firstName": "Ava",
+    "lastName": "Martin",
+    "email": "ava.martin@example.com",
+    "contactNumber": "7008009001",
+    "age": 31,
+    "dob": "22/02/1993",
+    "salary": 3.4,
+    "address": "87 Hill St, Dallas"
+  }
+]
